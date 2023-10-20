@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello everyone, I'm Nitesh Virani! 👋
+
+#### I love coding!
 
 <!--
 **niteshvirani/niteshvirani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm a Software Engineer
+- 🔭 I’m currently working on an e-commerce project.
+- 💬 Ask me about Java, Spring Boot, Angular, or any tech-related stuff.
