@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 # I'm a Software Engineer
 - 🔭 I’m currently working on an e-commerce project.
-- 💬 Ask me about Java, Spring Boot, Angular, or any tech-related stuff.
+- 💬 Ask me about Java, Spring Boot, or tech-related stuff.
